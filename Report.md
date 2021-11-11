@@ -2,7 +2,7 @@
 By: Rawabi Alharbi
 
 ## Abstract
-The main goal of this project is to create a classification model on Netflix movies and series to predict weather this movie or series is awarded or not.
+The main goal of this project is to extract topics from Arabic articles that are extracted from various online Saudi newspapers using NLP and Topic Modeling techniques.
 
 ## Design
 The data provided on Github was stored as json files. Therefore, I needed to concat the files to have one large dataset as a dataframe of Arabic articles.
