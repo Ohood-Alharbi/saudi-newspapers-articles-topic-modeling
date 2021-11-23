@@ -28,4 +28,4 @@ For this algorithm, I tuned the model using GridSearch and the best number was 3
 
 ## Communication
 In addition to the slides and visuals presented, I will share my work on my Github account
-* https://github.com/RawabiKhalaf/NLP_Unsupervied_Project/blob/main/NLP_Topic_Modeling_Project.ipynb
+* https://github.com/RawabiKhalaf/saudi-newspapers-articles-topic-modeling/blob/main/Source_code.ipynb
